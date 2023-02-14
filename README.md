@@ -1,2 +1,2 @@
 # justForPractice
-this is learning purpose
+this is learning purpose for git
